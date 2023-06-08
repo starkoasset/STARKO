@@ -1,0 +1,16 @@
+{
+  "assetId": "FsxqcBTJmyLAtu4wY4dThd1Jc27BpeZo9ShLYCsNbFtt",
+  "issueHeight": 3676317,
+  "issueTimestamp": 1686051354013,
+  "issuer": "3PM2gqiJihJaycaWs1MLNydJb2V9rZy8pey",
+  "issuerPublicKey": "5iXXqzADX8XTjGmQ6XiM6VKV3Wf2pMJ1GpWKqQpK56DJ",
+  "name": "STARKO",
+  "description": "STARLET Asset Community Indonesia Tbk. ",
+  "decimals": 8,
+  "reissuable": true,
+  "quantity": 3500000000,
+  "scripted": false,
+  "minSponsoredAssetFee": 500,
+  "originTransactionId": "FsxqcBTJmyLAtu4wY4dThd1Jc27BpeZo9ShLYCsNbFtt",
+  "sequenceInBlock": 1
+}
